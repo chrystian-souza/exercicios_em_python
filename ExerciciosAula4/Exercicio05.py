@@ -5,4 +5,17 @@
 # número
 # - Se o número for maior que 1500, pare o loop
 
-print rrrrr
+import random
+
+lista = []
+contador = 0
+while contador < 10:
+    n = random.randint(10, 1580)
+    if n % 2 == 0:
+        if n % 5 == 0:
+            print(n),
+            print("É par e divisível por 5")
+    lista.append(n)
+    contador += 1
+    print(n)
+
