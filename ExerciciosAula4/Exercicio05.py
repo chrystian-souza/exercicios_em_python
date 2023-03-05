@@ -4,3 +4,5 @@
 # - Se o número for maior que 95 e menor que 150 e, pule-o e passe para o próximo
 # número
 # - Se o número for maior que 1500, pare o loop
+
+print
