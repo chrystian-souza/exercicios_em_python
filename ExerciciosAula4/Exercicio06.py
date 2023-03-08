@@ -10,5 +10,5 @@ while contador < 10:
     n = random.randint(10, 1580)
     lista.append(n)
     contador += 1
-for indice in range(1, len(lista), 2):
-    print(f'{indice} - {lista[indice]}')
+for i in range(1, len(lista), 2):
+    print(f'{i} - {lista[i]}')
