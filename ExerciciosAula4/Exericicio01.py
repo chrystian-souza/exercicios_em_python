@@ -1,17 +1,6 @@
 # 1 - Remova strings vazias da lista de strings abaixo:
 # lista_nomes = [‘Emanoela’, ‘Jonatan’, ‘’, ‘Kelly’, None, ‘Henrique’, ‘’]
 
-# com metodo remove!
-# lista_nomes = ['Emanoela', 'Jonatan', '', 'Kelly', None, 'Henrique', '']
-#
-# print("lista original: " + str(lista_nomes))
-#
-# while("" in lista_nomes):
-#     lista_nomes.remove("")
-#
-# print('lista modificada' + str(lista_nomes))
-
-# com medito pop!
 
 lista_nomes = ['Emanoela', 'Jonatan', '', 'Kelly', None, 'Henrique', '']
 

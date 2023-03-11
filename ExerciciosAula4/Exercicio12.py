@@ -13,5 +13,3 @@ for i in lista_num:
 
 print(soma)
 
-if __name__ == '__main__':
-    print(lista_num(8))
