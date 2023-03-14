@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c2487df-1879-490c-8477-ef5dbd6ee416" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicio12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,11 +170,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.Exercicio06" />
-      <item itemvalue="Python.Exercicio10" />
       <item itemvalue="Python.Exercicio11" />
       <item itemvalue="Python.Exercicio12" />
       <item itemvalue="Python.Exercicio13" />
       <item itemvalue="Python.Exercicio14" />
+      <item itemvalue="Python.Exercicio10" />
     </list>
     <recent_temporary>
       <list>
