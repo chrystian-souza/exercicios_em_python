@@ -12,3 +12,4 @@ for liv in lista_livros:
     minha_bib.adicionar_livro(liv)
 
 minha_bib.mostra_detalhes_livros()
+
