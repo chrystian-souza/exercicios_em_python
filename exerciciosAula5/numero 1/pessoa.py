@@ -1,17 +1,11 @@
 class Pessoa:
-    def __init__(self, id, nome, idade):
+    def __init__(self, id, nome, idade, ):
         self.id = id
         self.nome = nome
-        self.idade = idadeaddo
+        self.idade = idade
 
-    def caminhar(quantidade_passos):
-        return  quantidade_passos
+    def caminhar(self, quantidade_passos: int) -> str:
+        return print(f'{self.nome} caminhou {quantidade_passos} passos.')
 
-
-usuario1 = Pessoa(1, 'Gabriela', 23)
-passos = usuario1.caminhar(1)
-print(passos)
-
-print(usuario1.idade,usuario1.nome,usuario1.id,usuario1)
-
-
+    def __str__(self):
+        return print(f'\nId: {str(self.id)} \nNome: {str(self.nome)} \nIdade: {str(self.idade)}')
