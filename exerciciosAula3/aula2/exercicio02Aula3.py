@@ -2,8 +2,8 @@
 # Informe também se as duas strings possuem o mesmo comprimento e são iguais ou diferentes no conteúdo.
 
 lista = []
-lista.append(input('Digite o nome de um carro: '))
-lista.append(input('Digite o nome de outro carro: '))
+lista.append(input('Digite o nome de um numero 4: '))
+lista.append(input('Digite o nome de outro numero 4: '))
 
 print(lista)
 print(f'tamanho da lista é: {len(lista)}')
