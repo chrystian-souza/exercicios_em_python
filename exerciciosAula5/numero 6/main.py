@@ -1,5 +1,5 @@
-from ExerciciosAula5.Livro import Livro
-from ExerciciosAula5.Biblioteca import Biblioteca
+from biblioteca import Biblioteca
+from livro import Livro
 
 minha_bib = Biblioteca()
 livro1 = Livro('As Cronicas de Narnia', 'CS Lewis', 1994)

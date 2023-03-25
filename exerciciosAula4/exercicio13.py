@@ -1,7 +1,7 @@
 # 13 - Utilizando a função do exercício 11, imprima todos os números
 # da lista como uma única string.
 
-import Exercicio11
+import exercicio11
 
 var = Exercicio11.lista_num(10)
 lista = []

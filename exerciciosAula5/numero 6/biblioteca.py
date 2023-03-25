@@ -2,7 +2,7 @@
 # CrieumaclasseBibliotecaquetenhaumalistadelivrosemétodosparaadicionareremoverlivrosdalista.
 # CrieumobjetodaclasseBiblioteca,adicionealgunslivrosàlista,eimprimaasinformaçõesdoslivrosdalista.
 
-import Livro
+import livro
 
 
 class Biblioteca:

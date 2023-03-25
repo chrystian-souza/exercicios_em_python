@@ -2,7 +2,7 @@
 # adicione a ela uma lista contendo 5 nomes e imprima todos os dados da
 # lista como uma única string.
 
-from Exercicio11 import lista_num
+from exercicio11 import lista_num
 
 lista = lista_num(10)
 
